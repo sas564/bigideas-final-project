@@ -4,7 +4,7 @@
 
 ### Team Members:
 * Samuel Scott: SAS564@pitt.edu
-* 
+* Rachel Buege: RLB143@pitt.edu
 * 
 
 ### Description and Data Sets Used:
