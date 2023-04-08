@@ -11,7 +11,7 @@
 
 * Poverty: 
 * Environment: https://data.wprdc.org/dataset/allegheny-county-air-quality
-* Lifespan: https://data.wprdc.org/dataset/median-age-death
+* Health: https://data.wprdc.org/dataset/median-age-death
 
 ### Overview:
 
