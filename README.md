@@ -15,3 +15,4 @@
 
 ### Overview:
 
+This project looks at the air quality, median age at death, and poverty rates from each neighborhood in Pittsburgh to determine the best neighborhood. 
