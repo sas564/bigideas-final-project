@@ -3,9 +3,9 @@
 ### Team Name: 504 Gateway Time-out
 
 ### Team Members:
-* Miles Newland: MDN29@pitt.edu
-* Rachel Buege: RLB143@pitt.edu
-* Samuel Scott: SAS564@pitt.edu
+* Miles Newland: MDN29@pitt.edu-->Notebook title: Miles.ipynb
+* Rachel Buege: RLB143@pitt.edu-->Notebook title: Submetric-PublicArt.ipynb
+* Samuel Scott: SAS564@pitt.edu-->Notebook title: Health.ipynb
 
 ### Description and Data Sets Used:
 
